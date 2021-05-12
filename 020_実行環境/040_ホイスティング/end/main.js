@@ -1,20 +1,16 @@
-a();
+a()
 
 function a() {
-    let c = 1;
+    let c = 1
 
-    console.log(c);
+    console.log(c)
 
-    d();
+    d()
     function d() {
-        console.log('d is called');
+        console.log('d is called')
     }
-    console.log('a is called');
+    console.log('a is called')
 }
 
-
-const b = 0;
-
-console.log(b);
-
-
+const b = 0
+console.log(b)
