@@ -1,15 +1,13 @@
-function incrementFactory() {
-    let num = 0
+incrementFactory = () => {
+    let n = 0
 
-    function increment() {
-        num += 10
-        num
+    increment = () => {
+        n = n + 1
     }
     return increment
 }
 
-const increment = incrementFactory()
-
-increment()
-increment()
-increment()
+const factory = incrementFactory()
+factory()
+factory()
+factory()
