@@ -6,5 +6,8 @@
     "javascript.format.semicolons": "remove",
     "typescript.format.semicolons": "remove",
     "prettier.semi": false,
-    "commentTranslate.targetLanguage": "ja"
+    "commentTranslate.targetLanguage": "ja",
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.showSubSessionsInToolBar": true,
+    "debug.terminal.clearBeforeReusing": true
 }
