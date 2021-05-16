@@ -9,5 +9,7 @@
     "commentTranslate.targetLanguage": "ja",
     "debug.allowBreakpointsEverywhere": true,
     "debug.showSubSessionsInToolBar": true,
-    "debug.terminal.clearBeforeReusing": true
+    "debug.terminal.clearBeforeReusing": true,
+    "editor.accessibilityPageSize": 12,
+    "editor.fontSize": 16
 }
