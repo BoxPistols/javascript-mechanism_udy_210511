@@ -26,4 +26,7 @@ add5
 const add10 = addNumFactory(1000)
 const res2 = add10(12, 13)
 add10
-res
+res2
+
+const all = res + res2
+all
