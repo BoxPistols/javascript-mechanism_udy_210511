@@ -11,5 +11,6 @@
     "debug.showSubSessionsInToolBar": true,
     "debug.terminal.clearBeforeReusing": true,
     "editor.accessibilityPageSize": 12,
-    "editor.fontSize": 16
+    "editor.fontSize": 16,
+    "comment-divider.length": 60
 }
